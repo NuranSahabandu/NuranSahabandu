@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Nuran Sahabandu
 
 <p align="center">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Developer Coding Animation" />
+  <img src="https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif" />
 </p>
 
 ---
