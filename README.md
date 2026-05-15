@@ -32,7 +32,7 @@
 <p align="left">
   <a href="mailto:sahabandunuran1@gmail.com"><img src="https://img.shields.io/badge/Email-sahabandunuran1@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/nuran-sahabandu-24816a317"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://[YOUR_PORTFOLIO].vercel.app"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://nuran-sahabandu-portofolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
