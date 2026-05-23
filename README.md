@@ -1,7 +1,7 @@
 # 🌌 Nuran Sahabandu
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00f2fe&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nuran+Sahabandu;Full+Stack+Developer;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nuran+Sahabandu;Full+Stack+Developer;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -45,10 +45,8 @@
 ## 📈 System Metrics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NuranSahabandu&show_icons=true&theme=dracula&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuranSahabandu&background=282a36&ring=00f2fe&fire=00f2fe&currStreakNum=00f2fe&sideNums=f8f8f2&sideLabels=6272a4&dates=6272a4&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuranSahabandu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="97%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NuranSahabandu&layout=compact&theme=dracula&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
