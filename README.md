@@ -1,8 +1,4 @@
-# 🌌 Nuran Sahabandu
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=ffffff&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Nuran+Sahabandu;Full+Stack+Developer;Building+Scalable+Digital+Solutions" alt="Typing SVG" />
-</p>
+# Hi there, I'm Nuran Sahabandu 👋
 
 <p align="center">
   <a href="https://linkedin.com/in/nuran-sahabandu-24816a317" target="_blank">
@@ -15,6 +11,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+---
+
+I'm a Software Engineering undergraduate with a strong foundation in full-stack development — spanning web applications, mobile apps, RESTful APIs, and intuitive user interfaces. I'm passionate about turning ideas into real-world solutions grounded in clean architecture and scalable design.
 
 ---
 
@@ -46,7 +46,4 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuranSahabandu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
 </p>
