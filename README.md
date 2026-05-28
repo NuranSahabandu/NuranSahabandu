@@ -35,6 +35,8 @@ I'm a Software Engineering undergraduate with a strong foundation in full-stack 
   <a href="https://expo.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/expo/expo-original.svg" width="45" height="45" alt="Expo"/></a> &nbsp;
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45" height="45" alt="MongoDB"/></a> &nbsp;
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/></a> &nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="45" height="45" alt="MS SQL Server"/></a> &nbsp;
+  <a href="https://appwrite.io/"><img src="https://appwrite.io/assets/logomark/logo.svg" width="45" height="45" alt="Appwrite"/></a> &nbsp;
   <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/></a> &nbsp;
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/></a> &nbsp;
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/></a>
