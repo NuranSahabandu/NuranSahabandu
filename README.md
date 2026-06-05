@@ -14,7 +14,7 @@
 
 ---
 
-I'm a Software Engineering undergraduate with a strong foundation in full-stack development — spanning web applications, mobile apps, RESTful APIs, and intuitive user interfaces. I'm passionate about turning ideas into real-world solutions grounded in clean architecture and scalable design.
+I'm a Software Engineering undergraduate with a passion for AI/ML and full-stack development. From building web apps, mobile apps, and RESTful APIs to exploring intelligent systems, I love turning complex ideas into scalable, real-world solutions.
 
 ---
 
