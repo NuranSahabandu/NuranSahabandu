@@ -40,6 +40,9 @@ I'm a Software Engineering undergraduate with a passion for AI/ML and full-stack
   <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman"/></a> &nbsp;
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="45" height="45" alt="Git"/></a> &nbsp;
   <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="45" height="45" alt="Figma"/></a>
+  <a href="https://www.docker.com/">
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" width="45" height="45" alt="Docker"/>
+</a> &nbsp;
 </p>
 
 ---
