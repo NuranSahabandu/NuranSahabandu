@@ -55,3 +55,8 @@ I'm a Software Engineering undergraduate with a passion for AI/ML and full-stack
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NuranSahabandu&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NuranSahabandu/NuranSahabandu/output/dist/github-snake-dark.svg">
+  <img alt="tux eating my contribution graph" src="https://raw.githubusercontent.com/NuranSahabandu/NuranSahabandu/output/dist/github-snake.svg">
+</picture>
